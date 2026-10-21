@@ -28,5 +28,7 @@ Projek yang akan saya kerjakan adalah membangun pipeline ETL menggunakan dataset
 10. Membuat file SQL untuk melakukan analisis data.
 11. Membuat diagram arsitektur pipeline.
 12. Mengunggah seluruh file proyek ke GitHub.
+## Alur Pipeline
+Coffe Sales ==> Phyton Extract ==> Phyton Transform ==> PostGreSQL Load ==> SQL Analysis
 ## Sumber Dataset
 -https://www.kaggle.com/datasets/anassarfraz13/coffee-sales-dataset?resource=download
